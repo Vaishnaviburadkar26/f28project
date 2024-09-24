@@ -1,0 +1,51 @@
+<nav class="my-nav">
+                
+            <div class="my-icon">
+                 <img src="travel logo.jpg" class="main-logo">
+                <h1 class="logo-name">Tourism.com</h1>
+
+
+             
+            <div class="btn-group">
+              <button class="btn btn-warning btn-lg" type="button" style="text-align: right;">
+                Menu
+              </button>
+              <button type="button" class="btn btn-lg btn-secondary dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                <span class="sr-only">Toggle Dropdown</span>
+              </button>
+              <div class="dropdown-menu">
+                <ul class="nav-bar">
+                  <li class="nav-item">
+                    <a class="nav-link" href="#"> Home</a> 
+                  </li>
+                      
+                  <li class="nav-item">
+                      <a class="nav-link" href="services.html">Services</a> 
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link" href="places.html"> Places</a> 
+                    </li>
+                    
+                    <li class="nav-item">
+                      <a class="nav-link" href="contact.html"> Contacts</a> 
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link" href="booking.html"> Bookings</a> 
+                    </li>
+              </ul>
+              </div>
+            </div>
+           </nav>
+
+           <div style="padding: 20px;" class="main-content-cont">
+              <!-- <h1 style="text-align: center;">Explore the World with Us</h1>  -->
+
+               <div class="card-wrapped-cont">
+
+               </div>
+           </div>
+      <div class="footer-sec">
+
+      </div>
+      
+    </div>  
